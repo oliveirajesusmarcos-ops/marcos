@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Post</title>
+</head>
+
+<body>
+
+    <article>
+
+        <h1>Meu primeiro post</h1>
+
+        <h2>O que estou aprendendo?</h2>
+
+        <ul>
+            <li>Aprender HTML</li>
+            <li>Testar diferentes estruturas</li>
+            <li>Criar posts diferentes</li>
+        </ul>
+
+        <p>
+            Olá! Este é o meu post criado com HTML.
+        </p>
+
+        <p>
+            Estou aprendendo a criar páginas e modificar
+            a estrutura dos elementos HTML.
+        </p>
+
+        <button>Leia mais</button>
+
+    </article>
+
+</body>
+</html>
+
+
+
+        
